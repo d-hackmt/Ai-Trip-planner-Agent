@@ -2,11 +2,8 @@ Demo
 
 ---
 
-<img width="709" height="486" alt="image" src="https://github.com/user-attachments/assets/431b84a4-a8d4-418a-be0a-4e03a1866041" />
+<img width="1066" height="867" alt="image" src="https://github.com/user-attachments/assets/951cdf41-2bbf-4021-b6a7-5dcbbfd23872" />
 
----
-
-<img width="765" height="690" alt="image" src="https://github.com/user-attachments/assets/e016731a-384a-47aa-a784-9b0ebba1d233" />
 
 ---
 
