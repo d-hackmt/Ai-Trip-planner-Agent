@@ -3,9 +3,11 @@ from langchain_core.prompts import ChatPromptTemplate
 from src.config.config import *
 
 llm = ChatGroq(
-    groq_api_key = GROQ_API_KEY,
-    model_name = "llama-3.3-70b-versatile",
-    temperature=0.3
+    groq_api_key=GROQ_API_KEY,
+    model_name="llama-3.3-70b-versatile",
+    temperature=0.5,  # Imaking it a more creative one
+    top_p=0.9,        # nucleus sampling makes it a balanced point that sets a bar
+    max_tokens=256    # lim for token usage to avoid misuse
 )
 
 ## in what way llm has to give answer
