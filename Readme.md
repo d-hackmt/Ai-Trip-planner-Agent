@@ -142,8 +142,8 @@ The goal is learn end to end deployment , we can always tune our outputs
 ### 4. Interlink your Github on VSCode and on VM
 
 ```bash
-git config --global user.email "gyrogodnon@gmail.com"
-git config --global user.name "data-guru0"
+git config --global user.email "djadhwani.n@gmail.com"
+git config --global user.name "d-hackmt"
 
 git add .
 git commit -m "commit"
@@ -151,7 +151,7 @@ git push origin main
 ```
 
 - When prompted:
-  - **Username**: `data-guru0`
+  - **Username**: `d-hackmt`
   - **Password**: GitHub token (paste, it's invisible)
 
 ---
