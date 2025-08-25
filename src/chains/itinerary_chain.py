@@ -17,9 +17,9 @@ itnineary_prompt = ChatPromptTemplate([
     ## system msg - msg to ai as prompt
     
     ("system" , """
-    You are a helpful travel asssistant. Create a one day trip itineary 
-    for {city} based on user's interest : {interests}. 
-    Provide a brief , bulleted itineary
+   You are a helpful travel assistant. Create a one-day trip itinerary for {city} based on the user's interests: {interests}.
+     The itinerary should be concise, well-structured, and provide clear suggestions for morning, afternoon, and evening.
+     Use bullet points and be brief. Include specific locations or activities relevant to the interests.
     """),
     
     ## human msg - given by us , first msg by us to ai 
